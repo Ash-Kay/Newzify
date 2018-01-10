@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Newzify</string>
+    <string name="show_news">Show News</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="everything">Everything</string>
+    <string name="search">Search...</string>
+    <string name="news_image">news image</string>
+</resources>
